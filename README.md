@@ -20,11 +20,12 @@ My expertise lies in building intuitive dashboards that empower teams, automatin
 When I'm not working with data, I have a strong passion for learning and exploring new innovations. I enjoy generating new ideas and constantly thinking about creative solutions to problems. Connecting with people and building relationships also excites me, as it allows me to share ideas and gain fresh perspectives. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://shileyzee22.github.io)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- **Project A:** [Maji Ndogo Water Access Dashboard
+Analysed water access across 27.6M people in five provinces of Maji Ndogo to identify infrastructure gaps, quantify improvement costs, and deliver a decision-ready Power BI report for national and provincial leadership.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
